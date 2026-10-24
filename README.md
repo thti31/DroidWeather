@@ -4,5 +4,4 @@ This project was created with help from Artificial Intelligence (Google Gemini 3
 In the future it is planned to receive support for Android 2.2 and above.
 
 Tested and working with:
-Motorola Moto E Gen 2 / Android 5.0
-Samsung Galaxy S4 Mini / Android 4.4
+Motorola Moto E Gen 2 running Android 5.0, and Samsung Galaxy S4 Mini running Android 4.4
