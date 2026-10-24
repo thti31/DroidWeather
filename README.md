@@ -2,3 +2,7 @@ DroidWeather is a fast and simple weather application for Android devices runnin
 Weather and geocoding data provided by Open-Meteo (https://open-meteo.com/).
 This project was created with help from Artificial Intelligence (Google Gemini 3.6 Flash).
 In the future it is planned to receive support for Android 2.2 and above.
+
+Tested and working with:
+Motorola Moto E Gen 2 / Android 5.0
+Samsung Galaxy S4 Mini / Android 4.4
